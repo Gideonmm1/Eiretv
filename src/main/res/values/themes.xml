@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Eiretv" parent="@style/Theme.Leanback" />
+</resources>
